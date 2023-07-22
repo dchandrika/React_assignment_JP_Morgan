@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+}
+.reset-order {
+  text-align: right;
+  margin-bottom: 20px;
+}
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1pt solid black;
+}
+.row-red {
+  color: orange;
+}
+
+.row-blue {
+  color: blue;
+}
+
+.row-green {
+  color: green;
+}
+
+.btn {
+  background-color: #339cbe;
+  color: white;
+  border: 1px solid #339cbe;
+  border-radius: 5px;
+  padding: 7px;
+}
